@@ -37,15 +37,15 @@ This program can be modified to fit particular needs. You have the freedom to ch
 
 Basic Layout
 
-![image](https://github.com/reasonkc777/Intregity_Checker_using_SHA-512/assets/81420040/2d8fc07a-5989-433e-a47c-70e6ded5e8ed)
+   ![image](https://github.com/reasonkc777/Intregity_Checker_using_SHA-512/assets/81420040/2d8fc07a-5989-433e-a47c-70e6ded5e8ed)
 
 If Matched
 
 
-![image](https://github.com/reasonkc777/Intregity_Checker_using_SHA-512/assets/81420040/295a78b1-6d87-4d7e-a726-742650d19e84)
+   ![image](https://github.com/reasonkc777/Intregity_Checker_using_SHA-512/assets/81420040/295a78b1-6d87-4d7e-a726-742650d19e84)
 
 If Match Failed
 
 
-![image](https://github.com/reasonkc777/Intregity_Checker_using_SHA-512/assets/81420040/705a0968-d7b7-4419-bef6-63fd8bc49419)
+   ![image](https://github.com/reasonkc777/Intregity_Checker_using_SHA-512/assets/81420040/705a0968-d7b7-4419-bef6-63fd8bc49419)
 
