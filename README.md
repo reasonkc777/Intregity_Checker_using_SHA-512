@@ -1,15 +1,15 @@
-File Integrity Checker in Python
+**File Integrity Checker in Python**
  
-Overview
+**Overview**
 
 The file integrity checker is a Python program that allows users to verify the consistency and integrity of two files using SHA-512. This tool is designed to provide graphical user interfaces (GUI) to help users verify the integrity of files.
 
-Prerequisites
+**Prerequisites**
 
 Before using this application, ensure that you have the following prerequisites in place:
 - Python 3 installed on your system.
 
-Usage
+**Usage**
 
 Follow the steps below to use the File Integrity Checker:
 1. Download the Application: Clone or download this repository to your local machine.
@@ -31,6 +31,6 @@ python file_integrity_checker.py
     
 17. View Results: The GUI will reveal the integrity check's outcome. It will display "Files match" in green if the files are identical. If they do, "Files differ" will appear in red.
    
-Customization
+**Customization**
 
 This program can be modified to fit particular needs. You have the freedom to change the code to change how the GUI appears, add new features, or change the integrity check hashing algorithm.
