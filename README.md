@@ -1,5 +1,5 @@
 File Integrity Checker in Python
-
+ 
 Overview
 
 The file integrity checker is a Python program that allows users to verify the consistency and integrity of two files using SHA-512. This tool is designed to provide graphical user interfaces (GUI) to help users verify the integrity of files.
